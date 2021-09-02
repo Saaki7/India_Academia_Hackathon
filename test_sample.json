@@ -1,0 +1,13 @@
+Final test solution
+{
+    "firstmember": "Raghu",
+    "secondmember": "Poojith",
+    "thirdmember": "Saikrishna",
+    "teamName": "The_accuracy",
+    "address": {
+        "college": "IITBBSR",
+        "city": "Bhubaneswar",
+        "state": "Odisha",
+        "postalCode": "702565"
+    }
+}
